@@ -24,7 +24,6 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 </div>
 
 ### **Outras Ferramentas:**
@@ -39,7 +38,8 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 ## 📊 **Meu GitHub Stats:**
 
 Exiba suas estatísticas com animação! 🎯  
-![Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5)
 
 ---
 
