@@ -10,13 +10,6 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 
 ---
 
-## 📊 **Meu GitHub Stats:**
-
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true" width="400" height="200"/>
-</div>
-
 ## 🔧 **Tecnologias e Ferramentas que uso:**  
 
 ### **Front-end:**
@@ -38,6 +31,15 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 📊 **Meu GitHub Stats:**
+
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true" width="400" height="200"/>
 </div>
 
 ---
