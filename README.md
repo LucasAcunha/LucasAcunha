@@ -1,4 +1,5 @@
-# Olá! Eu sou o Lucas! <span style="display: inline-flex; align-items: center;"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100" style="vertical-align: middle; margin-right: 10px;" /> </span>
+# <span style="display: inline-flex; align-items: center; vertical-align: middle;"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100" style="vertical-align: middle; margin-right: 10px;" /> Olá! Eu sou o Lucas! </span>
+
 
 Sou **estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento web. Estou constantemente buscando aprender e evoluir minhas habilidades no **front-end** e **back-end**, com ênfase em **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, **PHP** e **Java**.
 
