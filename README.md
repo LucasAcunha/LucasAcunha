@@ -9,7 +9,7 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 📚 Estou sempre buscando projetos para aprimorar minhas habilidades, aplicar minhas ideias e, principalmente, aprender com a experiência prática.
 
 <a href="https://www.linkedin.com/in/lucas-acunha-silveira-048068113/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333" alt="LinkedIn" target="_blank" />
 </a>
 
 ---
