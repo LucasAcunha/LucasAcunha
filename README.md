@@ -1,4 +1,8 @@
-# Olá! Eu sou o Lucas! 👋
+# Olá! Eu sou o Lucas! 
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="50" />
+</p>
 
 Sou **estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento web. Estou constantemente buscando aprender e evoluir minhas habilidades no **front-end** e **back-end**, com ênfase em **React**, **JavaScript**, **Node.js**, **HTML**, **CSS**, **PHP** e **Java**.
 
@@ -11,12 +15,6 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 <a href="https://www.linkedin.com/in/lucas-acunha-silveira-048068113/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333" alt="LinkedIn" />
 </a>
-
----
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500" />
-</p>
 
 ---
 
