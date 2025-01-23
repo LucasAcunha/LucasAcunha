@@ -8,6 +8,8 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 
 📚 Estou sempre buscando projetos para aprimorar minhas habilidades, aplicar minhas ideias e, principalmente, aprender com a experiência prática.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333)](https://www.linkedin.com/in/lucas-acunha-silveira-048068113/)
+
 ---
 
 ## 🔧 **Tecnologias e Ferramentas que uso:**  
@@ -42,15 +44,5 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true" width="400" height="200"/>
 </div>
 
----
 
-
-
----
-
-## 📍 **Me encontre aqui:**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-acunha-silveira-048068113/) 
-
----
 
