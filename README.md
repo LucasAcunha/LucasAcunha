@@ -37,9 +37,13 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 
 ## 📊 **Meu GitHub Stats:**
 
-Exiba suas estatísticas com animação! 🎯  
-![Stats](https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true)
+## 📊 **Meu GitHub Stats:**
+
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true" width="400" height="200"/>
+</div>
+
 
 ---
 
