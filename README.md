@@ -9,8 +9,14 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 📚 Estou sempre buscando projetos para aprimorar minhas habilidades, aplicar minhas ideias e, principalmente, aprender com a experiência prática.
 
 <a href="https://www.linkedin.com/in/lucas-acunha-silveira-048068113/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333" alt="LinkedIn" target="_blank" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=333333" alt="LinkedIn" />
 </a>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500" />
+</p>
 
 ---
 
@@ -45,6 +51,3 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
   <img src="https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical" width="400" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true" width="400" height="200"/>
 </div>
-
-
-
