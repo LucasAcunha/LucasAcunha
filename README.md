@@ -39,7 +39,7 @@ Atualmente, estou focado em expandir meus conhecimentos em **React.js** e explor
 
 Exiba suas estatísticas com animação! 🎯  
 ![Stats](https://github-readme-stats.vercel.app/api?username=LucasAcunha&show_icons=true&hide_title=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAcunha&size_weight=0.5&count_weight=0.5&theme=radical&show_icons=true)
 
 ---
 
